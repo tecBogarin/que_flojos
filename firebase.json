@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flotter-itm-notify",
+          "appId": "1:1006568412418:android:da16c9a66c8691bb2ede1b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flotter-itm-notify",
+          "configurations": {
+            "android": "1:1006568412418:android:da16c9a66c8691bb2ede1b"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006568412418",
+    "project_id": "flotter-itm-notify",
+    "storage_bucket": "flotter-itm-notify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006568412418:android:da16c9a66c8691bb2ede1b",
+        "android_client_info": {
+          "package_name": "com.itmbogarinf.notifications_f"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJEBQHnw7CDP94XXgtmT1m-TmynxcMek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006568412418:android:2933a266ad990fa42ede1b",
+        "android_client_info": {
+          "package_name": "com.itmbogarinf.notifications_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJEBQHnw7CDP94XXgtmT1m-TmynxcMek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
